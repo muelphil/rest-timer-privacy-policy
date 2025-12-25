@@ -1,0 +1,9 @@
+Privacy Policy
+
+Gym Rest Timer does not collect, store, process, or share any personal data.
+
+The app works entirely offline and all functionality is performed locally on the user’s device. No information is transmitted to external servers, and no analytics, advertising, or tracking services are used.
+
+Since no data is collected, no data is shared with third parties.
+
+If you have any questions about this privacy policy, you can contact me through GitHub.
